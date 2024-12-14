@@ -46,12 +46,18 @@ Ratings and Reviews: If customer feedback (e.g., ratings or reviews) is stored i
 ![pizzas](https://github.com/user-attachments/assets/6f4aa819-9097-4bdf-be4b-bb89ed24faf5)
 
 2.pizza_types
+
+
 ![pizza_type](https://github.com/user-attachments/assets/1c8e2e9a-c7ae-4fab-8e1e-2cdc91fcbb1e)
 
 3.orders
+
+
 ![orders](https://github.com/user-attachments/assets/b7f3fbaf-677f-4538-b03f-ffbca6b7e838)
 
 4.order_details
+
+
 ![order_details](https://github.com/user-attachments/assets/2e0708c4-fa63-4ae2-b2ac-a7f7af8b08f8)
 
 
